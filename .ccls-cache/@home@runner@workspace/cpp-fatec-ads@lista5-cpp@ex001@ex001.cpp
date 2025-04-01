@@ -39,8 +39,6 @@ void storageData () {
   tbValues.b.push_back(b);
   tbValues.c.push_back(c);
   tbValues.d.push_back(d);
-
-  calculateData();
 }
 
 void calculateData () {
